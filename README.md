@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/extcdelabarrab/LandingBFPE/_apis/build/status/Jonnathan7.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/extcdelabarrab/LandingBFPE/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
