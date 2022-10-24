@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/extcdelabarrab/abdde1a9-08ea-4004-b4f6-5049cba2797e/888621bf-562f-40a2-ad2c-037e2d943d28/_apis/work/boardbadge/3c9ac6b8-c325-4d8a-b963-b86569112b4c)](https://dev.azure.com/extcdelabarrab/abdde1a9-08ea-4004-b4f6-5049cba2797e/_boards/board/t/888621bf-562f-40a2-ad2c-037e2d943d28/Microsoft.RequirementCategory)
 [![Build Status](https://dev.azure.com/extcdelabarrab/LandingBFPE/_apis/build/status/Jonnathan7.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/extcdelabarrab/LandingBFPE/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
